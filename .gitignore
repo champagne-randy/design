@@ -48,6 +48,7 @@ client/public/libs
 # Sass pre-processor cache
 .sass-cache
 
+
 # Sketch InVision swap area
 inVision\ swap
 
@@ -58,6 +59,8 @@ inVision\ swap
 *.psd
 *.jpeg
 *.jpg
+
+
 
 
 
